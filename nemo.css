@@ -1,0 +1,31 @@
+.bgimg {
+	background-color:black ;
+	height: 150vh;
+}
+.image {
+	padding:20px ;
+	height: 300px;
+	width: 550px;
+	border-radius: 30px;
+}
+.head {
+	color: ghostwhite;
+	font-family:'Roboto' ;
+	font-size: 50px;
+	padding: 10px;
+}
+.pad {
+	padding: 10px;
+}
+.image1 {
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+}
+.para {
+	color: whitesmoke;
+	padding: 10px;
+}
+.btn-lg {
+	font-size: 50px;
+}
